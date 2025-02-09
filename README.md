@@ -20,6 +20,10 @@ Permite eliminaciones temporales de libros y categorías para conservar datos hi
 Implementación:
 E Implementación en una plataforma como AWS para demostración.
 
+![CoveragaTest]( https://github.com/roco170a/node_hello/blob/main/api_rest.jpg  "Coverage")
+
+
+
 ## Demo
 
 http://3.146.178.27:3000/api
