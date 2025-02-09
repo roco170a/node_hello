@@ -8,7 +8,7 @@ Libros: con una o más categorías.\
 Autores: administra los detalles del autor, y cada libro se vinculará a un autor válido.\
 Categorías: organiza los libros en múltiples categorías.
 
-Incluyendo:\
+Incluyendo (extra bonus):\
 **Relación de varios a varios**:\
 Implementación de una tabla de unión BookCategory.\
 **Búsqueda y filtrado**:\
@@ -18,10 +18,10 @@ Paginación para los libros.\
 **Eliminaciones temporales**:\
 Permite eliminaciones temporales de libros y categorías para conservar datos históricos.\
 **Implementación**:\
-E Implementación en una plataforma como AWS para demostración.
-**GraphQL**
-Una breve demostración de adición de funcionalidad a las intefaces ya creadas.
-**Terraform**
+E Implementación en una plataforma como AWS para demostración.\
+**GraphQL**\
+Una breve demostración de adición de funcionalidad a las intefaces ya creadas.\
+**Terraform**\
 Una breve demostración de la creación de la infraestructura como codigo en AWS.
 
 
