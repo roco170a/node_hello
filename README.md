@@ -56,6 +56,9 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+![CoveragaTest](https://github.com/roco170a/node_hello/cover_node.jpg "Coverage")
+
+
 ## Despliegue
 
 ```bash
