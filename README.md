@@ -69,16 +69,16 @@ $ npm run test:cov
 
 Pruebas unitarias:
 
-![IntTest](https://github.com/roco170a/node_hello/blob/main/unit_test.jpg "Integration")
+![IntTest]( images/unit_test.jpg "Integration")
 
 
 Pruebas de integración:
 
-![UnitTest](https://github.com/roco170a/node_hello/blob/main/integration_test.jpg "Unit")
+![UnitTest]( images/integration_test.jpg "Unit")
 
 Pruebas de covertura:
 
-![CoveragaTest](https://github.com/roco170a/node_hello/blob/main/cover_node.jpg "Coverage")
+![CoveragaTest]( images/cover_node.jpg "Coverage")
 
 
 ## Despliegue
@@ -90,7 +90,7 @@ $ npm run start:prod
 
 Ejecución en la nube:
 
-![RunAWS](https://github.com/roco170a/node_hello/blob/main/deploy_aws.jpg "Run")
+![RunAWS]( images/deploy_aws.jpg "Run")
 
 
 ## Extra Extra Bonus
@@ -101,7 +101,7 @@ Pequeña funcionalidad para graphql para que se pueda personalizar las consultas
 Para acceder a la **pequeña demo** de GraphQL:
 http://3.146.178.27:3000/graphql
 
-![graphclient](https://github.com/roco170a/node_hello/blob/main/client_graphql.jpg "GraphQL")
+![graphclient]( images/client_graphql.jpg "GraphQL")
 
 
 ## Contribución
