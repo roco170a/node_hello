@@ -20,13 +20,6 @@ Permite eliminaciones temporales de libros y categorías para conservar datos hi
 Implementación:\
 E Implementación en una plataforma como AWS para demostración.
 
-
-
-GRAPHQL:
-Soporte para graphql para que se pueda personalizar las consultas y columnas.
-
-![graphclient](https://github.com/roco170a/node_hello/blob/main/client_graphql.jpg "GraphQL")
-
 SWAGGER:
 Soporte para Swagger para que se pueda probar las APIs parametros.
 
@@ -93,6 +86,14 @@ $ npm run start:prod
 Ejecución en la nube:
 
 ![RunAWS](https://github.com/roco170a/node_hello/blob/main/deploy_aws.jpg "Run")
+
+
+## Extra Extra Bonus
+
+GRAPHQL:
+Pequeña funcionalidad para graphql para que se pueda personalizar las consultas y columnas, este tipo de consulta se agrega en automatico agregando una simple nomenclatura a la interface.
+
+![graphclient](https://github.com/roco170a/node_hello/blob/main/client_graphql.jpg "GraphQL")
 
 
 ## Contribución
