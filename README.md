@@ -32,7 +32,7 @@ Soporte para Swagger para que se pueda probar las APIs parametros.
 Para REST:
 http://3.146.178.27:3000/api
 
-Para GraphQL
+Pequeña demo de GraphQL (Extra Extra Bonus)
 http://3.146.178.27:3000/graphql
 
 ## Instalación
