@@ -33,7 +33,7 @@ Para REST:
 http://3.146.178.27:3000/api
 
 Para GraphQL
-http://3.146.178.27:3000/api
+http://3.146.178.27:3000/graphql
 
 ## Instalación
 
