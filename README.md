@@ -29,6 +29,10 @@ Soporte para Swagger para que se pueda probar las APIs parametros.
 
 ## Demo
 
+Para REST:
+http://3.146.178.27:3000/api
+
+Para GraphQL
 http://3.146.178.27:3000/api
 
 ## Instalación
