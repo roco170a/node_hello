@@ -9,15 +9,15 @@ Autores: administra los detalles del autor, y cada libro se vinculará a un auto
 Categorías: organiza los libros en múltiples categorías.
 
 Incluyendo:\
-Relación de varios a varios:\
+**Relación de varios a varios**:\
 Implementación de una tabla de unión BookCategory.\
-Búsqueda y filtrado:\
+**Búsqueda y filtrado**:\
 Una función de búsqueda avanzada para libros por múltiples criterios (por ejemplo, autor, categoría, etc).\
-Paginación:\
+**Paginación**:\
 Paginación para los libros.\
-Eliminaciones temporales:\
+**Eliminaciones temporales**:\
 Permite eliminaciones temporales de libros y categorías para conservar datos históricos.\
-Implementación:\
+**Implementación**:\
 E Implementación en una plataforma como AWS para demostración.
 
 SWAGGER:
@@ -95,7 +95,7 @@ Ejecución en la nube:
 GRAPHQL:
 Pequeña funcionalidad para graphql para que se pueda personalizar las consultas y columnas, este tipo de consulta se agrega en automatico agregando una simple NOTATION a la interface.
 
-Para acceder a la pequeña demo de GraphQL:
+Para acceder a la **pequeña demo** de GraphQL:
 http://3.146.178.27:3000/graphql
 
 ![graphclient](https://github.com/roco170a/node_hello/blob/main/client_graphql.jpg "GraphQL")
