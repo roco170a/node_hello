@@ -4,8 +4,8 @@
 
 El repositoro actual continen una API web RESTful para un sistema de gestión de bibliotecas que proporciona operaciones CRUD y relaciones entre las siguientes entidades:
 
-Libros: con una o más categorías.
-Autores: administra los detalles del autor, y cada libro se vinculará a un autor válido.
+Libros: con una o más categorías.\
+Autores: administra los detalles del autor, y cada libro se vinculará a un autor válido.\
 Categorías: organiza los libros en múltiples categorías.
 
 Incluyendo:\
