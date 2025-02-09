@@ -32,8 +32,6 @@ Soporte para Swagger para que se pueda probar las APIs parametros.
 Para REST:
 http://3.146.178.27:3000/api
 
-Pequeña demo de GraphQL (Extra Extra Bonus)
-http://3.146.178.27:3000/graphql
 
 ## Instalación
 
@@ -96,6 +94,9 @@ Ejecución en la nube:
 
 GRAPHQL:
 Pequeña funcionalidad para graphql para que se pueda personalizar las consultas y columnas, este tipo de consulta se agrega en automatico agregando una simple NOTATION a la interface.
+
+Para acceder a la pequeña demo de GraphQL:
+http://3.146.178.27:3000/graphql
 
 ![graphclient](https://github.com/roco170a/node_hello/blob/main/client_graphql.jpg "GraphQL")
 
