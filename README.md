@@ -19,6 +19,11 @@ Paginación para los libros.\
 Permite eliminaciones temporales de libros y categorías para conservar datos históricos.\
 **Implementación**:\
 E Implementación en una plataforma como AWS para demostración.
+**GraphQL**
+Una breve demostración de adición de funcionalidad a las intefaces ya creadas.
+**Terraform**
+Una breve demostración de la creación de la infraestructura como codigo en AWS.
+
 
 SWAGGER:
 Soporte para Swagger para que se pueda probar las APIs parametros.
