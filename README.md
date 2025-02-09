@@ -67,11 +67,12 @@ $ npm run test:cov
 
 Pruebas unitarias:
 
-![UnitTest](https://github.com/roco170a/node_hello/blob/main/integration_test.jpg "Unit")
+![IntTest](https://github.com/roco170a/node_hello/blob/main/unit_test.jpg "Integration")
+
 
 Pruebas de integración:
 
-![IntTest](https://github.com/roco170a/node_hello/blob/main/unit_test.jpg "Integration")
+![UnitTest](https://github.com/roco170a/node_hello/blob/main/integration_test.jpg "Unit")
 
 Pruebas de covertura:
 
