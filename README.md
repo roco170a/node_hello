@@ -2,7 +2,12 @@
 
 ## Descripción
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+
+
+## Demo
+
+http://3.146.178.27:3000/api
 
 ## Instalación
 
