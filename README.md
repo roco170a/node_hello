@@ -23,7 +23,7 @@ E Implementación en una plataforma como AWS para demostración.
 SWAGGER:
 Soporte para Swagger para que se pueda probar las APIs parametros.
 
-![CoveragaTest]( https://github.com/roco170a/node_hello/blob/main/api_rest.jpg  "Coverage")
+![CoveragaTest]( images/api_rest.jpg  "Coverage")
 
 
 
