@@ -35,6 +35,8 @@ http://3.146.178.27:3000/api
 
 ## Instalación
 
+Requiere Node 20 o posterior
+
 ```bash
 $ npm install
 ```
