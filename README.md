@@ -60,6 +60,16 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+Pruebas unitarias:
+
+![UnitTest](https://github.com/roco170a/node_hello/blob/main/integration_test.jpg "Unit")
+
+Pruebas de integración:
+
+![IntTest](https://github.com/roco170a/node_hello/blob/main/unit_test.jpg "Integration")
+
+Pruebas de covertura:
+
 ![CoveragaTest](https://github.com/roco170a/node_hello/blob/main/cover_node.jpg "Coverage")
 
 
