@@ -91,7 +91,7 @@ Ejecución en la nube:
 ## Extra Extra Bonus
 
 GRAPHQL:
-Pequeña funcionalidad para graphql para que se pueda personalizar las consultas y columnas, este tipo de consulta se agrega en automatico agregando una simple nomenclatura a la interface.
+Pequeña funcionalidad para graphql para que se pueda personalizar las consultas y columnas, este tipo de consulta se agrega en automatico agregando una simple NOTATION a la interface.
 
 ![graphclient](https://github.com/roco170a/node_hello/blob/main/client_graphql.jpg "GraphQL")
 
