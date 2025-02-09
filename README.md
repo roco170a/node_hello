@@ -20,13 +20,20 @@ Permite eliminaciones temporales de libros y categorías para conservar datos hi
 Implementación:\
 E Implementación en una plataforma como AWS para demostración.
 
+SWAGGER:
+Soporte para Swagger para que se pueda probar las APIs parametros.
+
 ![CoveragaTest]( https://github.com/roco170a/node_hello/blob/main/api_rest.jpg  "Coverage")
 
 
 
 ## Demo
 
+Para REST:
 http://3.146.178.27:3000/api
+
+Para GraphQL
+http://3.146.178.27:3000/graphql
 
 ## Instalación
 
@@ -83,6 +90,14 @@ $ npm run start:prod
 Ejecución en la nube:
 
 ![RunAWS](https://github.com/roco170a/node_hello/blob/main/deploy_aws.jpg "Run")
+
+
+## Extra Extra Bonus
+
+GRAPHQL:
+Pequeña funcionalidad para graphql para que se pueda personalizar las consultas y columnas, este tipo de consulta se agrega en automatico agregando una simple NOTATION a la interface.
+
+![graphclient](https://github.com/roco170a/node_hello/blob/main/client_graphql.jpg "GraphQL")
 
 
 ## Contribución
