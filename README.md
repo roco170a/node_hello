@@ -20,6 +20,16 @@ Permite eliminaciones temporales de libros y categorías para conservar datos hi
 Implementación:\
 E Implementación en una plataforma como AWS para demostración.
 
+
+
+GRAPHQL:
+Soporte para graphql para que se pueda personalizar las consultas y columnas.
+
+![graphclient](https://github.com/roco170a/node_hello/blob/main/client_graphql.jpg "GraphQL")
+
+SWAGGER:
+Soporte para Swagger para que se pueda probar las APIs parametros.
+
 ![CoveragaTest]( https://github.com/roco170a/node_hello/blob/main/api_rest.jpg  "Coverage")
 
 
