@@ -5,7 +5,7 @@ import { UpdateBookDto } from './dto/update-book.dto';
 import { ApiBody, ApiNotFoundResponse, ApiOperation, ApiQuery, ApiResponse, getSchemaPath } from '@nestjs/swagger';
 import { Book } from './entities/book.entity';
 import { NotFoundError } from 'rxjs';
-import { IPaginationOptions } from 'src/pagination/interfaces/pages.interfaces';
+import { IPaginationOptions } from '../pagination/interfaces/pages.interfaces';
 
 @Controller('books')
 export class BooksController {

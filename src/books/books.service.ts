@@ -5,9 +5,9 @@ import { Book } from './entities/book.entity';
 import { CreateBookDto } from './dto/create-book.dto';
 import { UpdateBookDto } from './dto/update-book.dto';
 import { BookCategory } from './entities/book-category.entity';
-import { IPaginationOptions } from 'src/pagination/interfaces/pages.interfaces';
-import { paginate } from 'src/pagination/paginate';
-import { Pagination } from 'src/pagination/pagination';
+import { IPaginationOptions } from '../pagination/interfaces/pages.interfaces';
+import { paginate } from '../pagination/paginate';
+import { Pagination } from '../pagination/pagination';
 
 @Injectable()
 export class BooksService {
