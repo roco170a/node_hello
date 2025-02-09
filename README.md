@@ -80,6 +80,11 @@ $ npm run build
 $ npm run start:prod
 ```
 
+Ejecución en la nube:
+
+![RunAWS](https://github.com/roco170a/node_hello/blob/main/deploy_aws.jpg "Run")
+
+
 ## Contribución
 
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos pasos:
