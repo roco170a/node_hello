@@ -108,6 +108,11 @@ http://3.146.178.27:3000/graphql
 
 ![graphclient]( images/client_graphql.jpg "GraphQL")
 
+Terraform:
+Pequeña demostración de creación de infraestructura como codigo.
+
+![terraform]( images/terraform_plan.jpg "TFPlan")
+
 
 ## Contribución
 
