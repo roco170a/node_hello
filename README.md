@@ -2,6 +2,8 @@
 
 ## Descripción
 
+<b>Hola..</b>
+
 El repositoro actual continen una API web RESTful para un sistema de gestión de bibliotecas que proporciona operaciones CRUD y relaciones entre las siguientes entidades:
 
 Libros: con una o más categorías.\
@@ -137,3 +139,4 @@ Este proyecto está licenciado bajo la licencia Apache 2.0. Consulta el archivo 
 Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme:
 
 - **Email**: roco170@gmail.com
+
